@@ -126,4 +126,3 @@ while True:
         clear_terminal()
         print("Por favor, digite uma opção válida.")
         time.sleep(3)
-
